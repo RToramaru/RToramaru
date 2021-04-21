@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @RToramaru
 - 👀 I’m interested in Full Stack development, Compuaticonal Vision, Machine Learning and Innovation
 - 🌱 I’m currently learning Compuaticonal Vision and Full Stack development
-- 💞️ I’m looking to collaborate on innovation projects, and machine learning
+- 💞️ I’m looking to collaborate on innovation projects
 - 📫 LinkedIn https://www.linkedin.com/in/rafael-almeida-soares-734543206/
 
 <!---
