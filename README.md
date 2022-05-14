@@ -1,7 +1,7 @@
 <h1 align="center">Oi 👋, Eu sou Rafael Almeida Soares</h1>
 <h3 align="center">Um desenvolvedor Fullstack do Brasil</h3>
 
-- 🌱 Estou aprendendo **MongoDB **
+- 🌱 Estou aprendendo **MongoDB**
 
 - 👨‍💻 Todos os meus projetos estão disponíveis em [https://github.com/RToramaru?tab=repositories](https://github.com/RToramaru?tab=repositories)
 
