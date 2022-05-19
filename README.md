@@ -1,5 +1,5 @@
 <h1 align="center">Oi 👋, Eu sou Rafael Almeida Soares</h1>
-<h3 align="center">Um desenvolvedor Fullstack do Brasil</h3>
+<h3 align="center">Um desenvolvedor do Brasil</h3>
 
 - 🌱 Estou aprendendo **MongoDB**
 
